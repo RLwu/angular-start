@@ -28,17 +28,34 @@
 > * 步骤 7 ：做一些修改，并立即查看效果
 > * 收工，下一步
 
+### 环境准备
+
 * 安装nodejs/npm
 ```
 node 》 v5.x.x  (v6.6.0)
 npm  》 v3.x.x  (v3.10.8)
 ```
-* 创建工作目录
-```
+需要 node v5.x.x 或更高版本以及 npm 3.x.x 或更高版本。 要检查你正在使用的版本，请在终端窗口中运行 node -v 和 npm -v 命令。
 
+### 步骤 1 ：创建并配置此项目
+
+* 创建工作目录
+
+使用终端窗口，为项目创建目录，并进入此目录
+```
 mkdir angular2-app
 cd angular2-app
 ```
+
+
+* 创建工作目录
+
+package.json 用来标记出本项目所需的 npm 依赖包。<br/>
+tsconfig.json 定义了 TypeScript 编译器如何从项目源文件生成 JavaScript 代码。<br/>
+typings.json 为那些 TypeScript 编译器无法识别的库提供了别的定义文件。<br/>
+systemjs.config.js 为模块加载器提供了该到哪里查找应用模块的信息，并注册了所有必备的依赖包。 它还包括文档中后面的例子需要用到的包。<br/>
+
+
 
 * 安装依赖包
 ```
