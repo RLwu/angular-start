@@ -5,7 +5,7 @@
 
 
 ## Quick start
-* [官方文档链接](https://github.com/RLwu/Angular2/wiki/Angular-for-Dart)
+* [官方文档链接](https://angular.io/docs/ts/latest/quickstart.html)
 
 现在用TypeScript构建一个应用
 
