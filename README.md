@@ -17,6 +17,17 @@
 * 安装TypeScript’s Visual Studio插件([Visual Studio 2015](https://www.typescriptlang.org/#download-links))
 
 **For NPM users:**
+
+> * 环境准备 : 安装 Node.js and npm
+> * 步骤 1 ：创建并配置此项目
+> * 步骤 2 ：创建应用
+> * 步骤 3 ：创建组件并添加到应用程序中
+> * 步骤 4 ：启动应用程序
+> * 步骤 5 ：定义作为该应用的宿主的页面
+> * 步骤 6 ：构建并运行此应用
+> * 步骤 7 ：做一些修改，并立即查看效果
+> * 收工，下一步
+
 * 安装nodejs/npm
 ```
 node 》 v5.x.x  (v6.6.0)
