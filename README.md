@@ -1,5 +1,9 @@
 # Angular2
 
+
+<img src="images/ng2.jpg"/>
+
+
 ## Quick start
 
 现在用TypeScript构建一个应用
